@@ -1,4 +1,7 @@
 # AWESOME Taymiyyah's Beverage Analyzer Analogy Engine
+<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+
+![ghazal](https://github.com/mejbass/AWESOME-Taymiyyah-s-Beverage-Analyzer-Analogy-Engine/assets/130122304/0244e588-9271-43c2-9c24-52fbc443683b)
 
 **This repository hosts a unique analogy engine crafted to ascertain the permissibility of beverages by analyzing their characteristics and cross-referencing them with a database of established drinks. Employing analogical reasoning, the system draws inspiration from Ibn Taymiyyah's critique of Aristotelian logic to arrive at its decisions.**
 
